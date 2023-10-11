@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi i'm Rahul Athreya K M </h1>
 <h3 align="center">Aspiring data analyst, data scientist, and full-stack web developer from India, eager to make an impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif"
